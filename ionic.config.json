@@ -1,0 +1,7 @@
+{
+  "name": "elevation",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
